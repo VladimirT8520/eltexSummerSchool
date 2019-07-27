@@ -1,3 +1,5 @@
+package ru.nsk.eltex.runnable;
+
 public class Walk {
     public static void main(String[] args) {
         Thread thread = new Thread(new WalkRunnable());

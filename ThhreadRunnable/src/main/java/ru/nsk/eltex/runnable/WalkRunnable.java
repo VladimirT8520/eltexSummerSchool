@@ -1,3 +1,5 @@
+package ru.nsk.eltex.runnable;
+
 import sun.font.FontRunIterator;
 
 public class WalkRunnable implements Runnable {
